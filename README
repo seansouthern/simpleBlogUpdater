@@ -1,0 +1,11 @@
+
+====================================================================
+This is a simple convenience app for myself that presents a text box 
+for me to compose a blog post in and a button that publishes what's 
+in the box. It uses the Paramiko lib for SFTP, Beautiful Soup for 
+HTML parsing, and Tkinter for the GUI. If you'd like to adapt this to 
+your own purpose go ahead.
+
+The code that I have written here is all in the public domain.
+Sean Southern, February 16th 2012
+====================================================================
